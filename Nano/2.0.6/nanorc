@@ -27,4 +27,5 @@ set tabsize 8
 unset tabstospaces
 unset tempfile
 unset view
+set whitespace >.
 unset wordbounds
